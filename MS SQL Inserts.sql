@@ -379,3 +379,123 @@ INSERT INTO Benefits
 INSERT INTO Benefits 
 	(EmployeeID, VacationTime, SickDays, Salary)
 	VALUES ('0020', '22', '15', '61000')
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('101', '021', '7', '2015-10-13');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('102', '022', '8', '2014-03-12');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('103', '023', '6', '2014-05-17');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('104', '024', '8', '2016-03-07');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('105', '025', '9', '2017-01-18');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('106', '026', '9', '2016-08-22');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('107', '027', '7', '2015-11-19');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('108', '028', '5', '2015-04-12');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('109', '029', '6', '2014-05-18');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('110', '029', '7', '2016-05-07');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('111', '030', '9', '2017-03-18');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('112', '030', '9', '2016-08-22');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('113', '030', '8', '2017-07-12');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('114', '031', '8', '2016-05-18');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('115', '031', '5', '2016-05-12');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('116', '032', '9', '2018-03-18');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('117', '036', '9', '2018-08-22');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('118', '037', '7', '2018-11-19');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('119', '038', '9', '2018-03-12');
+
+INSERT INTO customers([CustomerID], [ProductID], [Reviews], [PurchaseDate]) 
+VALUES ('120', '039', '8', '2017-09-26');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('01', '1500000', '55000', '3000000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales]) 
+VALUES ('02', '-1050', '60000', '100500');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales]) 
+VALUES ('03', '55000', '45000', '700000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('04','4500','57000','17500');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('05','-1250','59000','1500');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('06','-700','61000','2000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('07','12500','65000','30000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('08','0','62500','1000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('09','125000','69500','7500');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('10','10000','70000','4000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('11','-1500','58500','200');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('12','-2500','49000','500');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('13','39000','61500','75000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('14','1250','54000','12000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('15','-150','50500','1350');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('16','0','44000','0');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('17','67500','62250','300000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('18','100400','73500','290000');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('19','-550','50250','0');
+
+INSERT INTO treasury([DepartmentID], [Profit], [Salary], [Sales])
+VALUES ('20','40000','63025','135000');
