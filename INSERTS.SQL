@@ -376,3 +376,9 @@ VALUES ('2', '-1050', '60000', '100500');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`) 
 VALUES ('3', '55000', '45000', '700000');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('4','4500','57000','17500')
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('5','-1250','59000','1500')
