@@ -388,3 +388,15 @@ VALUES ('6','-700','61000','2000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
 VALUES ('7','12500','65000','30000');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('8','0','62500','1000');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('9','125000','69500','7500');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('10','10000','70000','4000');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('11','-1500','58500','200');
