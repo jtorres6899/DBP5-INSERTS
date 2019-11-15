@@ -446,3 +446,21 @@ VALUES ('105', '025', '9', '2017-01-18');
 
 INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
 VALUES ('106', '026', '9', '2016-08-22');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('107', '027', '7', '2015-11-19');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('108', '028', '5', '2015-04-12');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('109', '029', '6', '2014-05-18');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('110', '029', '7', '2016-05-07');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('111', '030', '9', '2017-03-18');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('112', '030', '9', '2016-08-22');
