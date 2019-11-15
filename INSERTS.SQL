@@ -427,3 +427,10 @@ VALUES ('19','-550','50250','0');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
 VALUES ('20','40000','63025','135000');
+
+Customer Table Inserts
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('101', '021', '7', '2015-03-12');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('102', '022', '8', '2014-03-12');
