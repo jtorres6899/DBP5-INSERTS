@@ -369,31 +369,31 @@ VALUES ('0020', 'MT', 'RI', 'MA');
 
 Treasury Table Inserts
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('1', '1500000', '55000', '3000000');
+VALUES ('01', '1500000', '55000', '3000000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`) 
-VALUES ('2', '-1050', '60000', '100500');
+VALUES ('02', '-1050', '60000', '100500');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`) 
-VALUES ('3', '55000', '45000', '700000');
+VALUES ('03', '55000', '45000', '700000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('4','4500','57000','17500');
+VALUES ('04','4500','57000','17500');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('5','-1250','59000','1500');
+VALUES ('05','-1250','59000','1500');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('6','-700','61000','2000');
+VALUES ('06','-700','61000','2000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('7','12500','65000','30000');
+VALUES ('07','12500','65000','30000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('8','0','62500','1000');
+VALUES ('08','0','62500','1000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES ('9','125000','69500','7500');
+VALUES ('09','125000','69500','7500');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
 VALUES ('10','10000','70000','4000');
@@ -412,3 +412,18 @@ VALUES ('14','1250','54000','12000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
 VALUES ('15','-150','50500','1350');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('16','0','44000','0');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('17','67500','62250','300000');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('18','100400','73500','290000');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('19','-550','50250','0');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
+VALUES ('20','40000','63025','135000');
