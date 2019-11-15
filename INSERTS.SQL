@@ -369,7 +369,10 @@ VALUES ('0020', 'MT', 'RI', 'MA');
 
 Treasury Table Inserts
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`)
-VALUES (1,1500000,55000,3000000);
+VALUES ('1', '1500000', '55000', '3000000');
 
 INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`) 
-VALUES (2,-1050,60000,100500);
+VALUES ('2', '-1050', '60000', '100500');
+
+INSERT INTO `treasury`(`DepartmentID`, `Profit`, `Salary`, `Sales`) 
+VALUES ('3', '55000', '45000', '700000');
