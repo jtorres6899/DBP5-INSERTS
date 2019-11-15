@@ -482,3 +482,9 @@ VALUES ('117', '036', '9', '2018-08-22');
 
 INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
 VALUES ('118', '037', '7', '2018-11-19');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('119', '038', '9', '2018-03-12');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('120', '039', '8', '2017-09-26');
