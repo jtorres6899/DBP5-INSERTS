@@ -430,7 +430,19 @@ VALUES ('20','40000','63025','135000');
 
 Customer Table Inserts
 INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
-VALUES ('101', '021', '7', '2015-03-12');
+VALUES ('101', '021', '7', '2015-10-13');
 
 INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
 VALUES ('102', '022', '8', '2014-03-12');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('103', '023', '6', '2014-05-17');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('104', '024', '8', '2016-03-07');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('105', '025', '9', '2017-01-18');
+
+INSERT INTO `customers`(`CustomerID`, `ProductID`, `Reviews`, `PurchaseDate`) 
+VALUES ('106', '026', '9', '2016-08-22');
